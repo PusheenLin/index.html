@@ -12,9 +12,10 @@ function displayDate(){
 <body>
 
 <h1>我的第一個Github專案</h1>
-<p id="demo">可愛的按鈕</p>
+<p class="text-primary">警告</p>
 
-<button type="button" onclick="displayDate()">顯示日期</button>
+<button type="button" onclick="displayDate()">可愛的按鈕</button>
 
 </body>
 </html>
+
